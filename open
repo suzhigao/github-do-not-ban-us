@@ -1,0 +1,9 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {//尽微薄之力，愿你更好
+	cout << "Closed, sanctions useless; Openness and inclusiveness are better.(封闭，制裁无益；开放，包容更好。)" << endl;
+
+	return 0;
+}
